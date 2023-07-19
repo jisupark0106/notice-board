@@ -1,0 +1,2 @@
+INSERT INTO article (title, content, created_date, modified_date) VALUES ('박지수의 상점', '헤드셋을 팔아요', NOW(), NOW())
+INSERT INTO article (title, content, created_date, modified_date) VALUES ('황유선의 상점', '자전거를 팔아요', NOW(), NOW())
